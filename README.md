@@ -1,2 +1,3 @@
 # hello-world
-hello workd tutorial
+hello world tutorial
+invat sa folosesc github pentru controlul versiunii
